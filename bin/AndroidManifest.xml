@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quicknotes"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/CustomActionBarTheme">
+        <activity
+            android:name="com.example.quicknotes.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.quicknotes.NewNoteActivity"
+            android:label="@string/title_New_Note"
+            android:parentActivityName="com.example.quicknotes.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.quicknotes.MainActivity" />
+        </activity>
+        
+        <activity
+            android:name="com.example.quicknotes.NoteViewActivity"
+            android:label="@string/action_note_edit"
+            android:parentActivityName="com.example.quicknotes.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.quicknotes.MainActivity" />
+        </activity>
+        
+        
+        <activity android:name=".DialogActivity"
+                  android:theme="@android:style/Theme.Dialog">
+        </activity>
+    </application>
+
+</manifest>

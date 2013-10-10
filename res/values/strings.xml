@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickNotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_new">New</string>
+    <string name="action_collection">Collections</string>
+    <string name="action_new_note_save">Save</string>
+    <string name="action_note_edit"></string>
+    <string name="title_New_Note">New Note</string>   
+    <string name="new_note_title">Title</string>
+    <string name="new_note_body">Content</string>
+    <string name="new_note_title_hint">Note Title</string>
+    <string name="new_note_body_hint">Note Content Start Here</string>
+    <string name="dialog_text">Note Saved!</string>
+    <string name="btn_finish_dialog_label">OK</string>
+    
+    <string name="menu_edit">Edit</string>
+    <string name="menu_view">View</string>
+    <string name="menu_delete">Delete</string>
+        
+</resources>
