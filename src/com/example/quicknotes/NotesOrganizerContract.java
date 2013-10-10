@@ -1,4 +1,4 @@
-//Copyright (c) 2013 ICRL
+//Copyright (c) 2013 Ernest Ma
 //
 //See the file license.txt for copying permission.
 
