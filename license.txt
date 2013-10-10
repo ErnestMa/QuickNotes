@@ -1,0 +1,28 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red82\green0\blue83;\red83\green85\blue3;\red16\green121\blue3;
+\red0\green0\blue117;}
+\margl1440\margr1440\vieww17720\viewh12980\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf2 \cb1 Copyright\cf0  \cf3 (\cf0 c\cf3 )\cf0  \cf4 2013\cf0  ICRL\
+\
+\cf2 Permission\cf0  \cf5 is\cf0  hereby granted\cf3 ,\cf0  free of charge\cf3 ,\cf0  to any person obtaining a copy\
+of \cf5 this\cf0  software \cf5 and\cf0  associated documentation files \cf3 (\cf0 the \cf4 "Software"\cf3 ),\cf0  to deal\
+\cf5 in\cf0  the \cf2 Software\cf0  without restriction\cf3 ,\cf0  including without limitation the rights\
+to \cf5 use\cf3 ,\cf0  copy\cf3 ,\cf0  modify\cf3 ,\cf0  merge\cf3 ,\cf0  publish\cf3 ,\cf0  distribute\cf3 ,\cf0  sublicense\cf3 ,\cf0  \cf5 and\cf3 /\cf5 or\cf0  sell\
+copies of the \cf2 Software\cf3 ,\cf0  \cf5 and\cf0  to permit persons to whom the \cf2 Software\cf0  \cf5 is\cf0 \
+furnished to \cf5 do\cf0  so\cf3 ,\cf0  subject to the following conditions\cf3 :\cf0 \
+\
+\cf2 The\cf0  above copyright notice \cf5 and\cf0  \cf5 this\cf0  permission notice shall be included \cf5 in\cf0 \
+all copies \cf5 or\cf0  substantial portions of the \cf2 Software\cf3 .\cf0 \
+\
+THE SOFTWARE IS PROVIDED \cf4 "AS IS"\cf3 ,\cf0  WITHOUT WARRANTY OF ANY KIND\cf3 ,\cf0  EXPRESS OR\
+IMPLIED\cf3 ,\cf0  INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY\cf3 ,\cf0 \
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\cf3 .\cf0  IN NO EVENT SHALL THE\
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM\cf3 ,\cf0  DAMAGES OR OTHER\
+LIABILITY\cf3 ,\cf0  WHETHER IN AN ACTION OF CONTRACT\cf3 ,\cf0  TORT OR OTHERWISE\cf3 ,\cf0  ARISING FROM\cf3 ,\cf0 \
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\
+THE SOFTWARE\cf3 .\cf0 \
+}

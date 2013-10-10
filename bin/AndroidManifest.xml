@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2013 ICRL
+
+See the file license.txt for copying permission. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.quicknotes"
     android:versionCode="1"
@@ -25,21 +28,11 @@
         <activity
             android:name="com.example.quicknotes.NewNoteActivity"
             android:label="@string/title_New_Note"
-            android:parentActivityName="com.example.quicknotes.MainActivity" >
+            android:parentActivityName="com.example.quicknotes.NewNoteActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.quicknotes.MainActivity" />
+                android:value="com.example.quicknotes.NewNoteActivity" />
         </activity>
-        
-        <activity
-            android:name="com.example.quicknotes.NoteViewActivity"
-            android:label="@string/action_note_edit"
-            android:parentActivityName="com.example.quicknotes.MainActivity" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.quicknotes.MainActivity" />
-        </activity>
-        
         
         <activity android:name=".DialogActivity"
                   android:theme="@android:style/Theme.Dialog">

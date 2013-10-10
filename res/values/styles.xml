@@ -1,5 +1,7 @@
-<resources>
+<!-- Copyright (c) 2013 ICRL
 
+See the file license.txt for copying permission. -->
+<resources>
     <!--
         Base application theme, dependent on API level. This theme is replaced
         by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
